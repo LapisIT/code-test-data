@@ -125,5 +125,17 @@
         "SYSTEM_CONTROL_14": false
       }
     }
-  ]
+  ],
+  "application-fee-payment": {
+    "FA_PAYMENT": 320,
+    "FD_PAYMENT": 0,
+    "selectedPaymentOption": "FA_PAYMENT",
+    "USER_DEFINED_PAYMENT": 10,
+    "paymentHistoryList": [{
+      "date": "string",
+      "amount": 320,
+      "reference": "reference",
+      "method": "FA_PAYMENT"
+    }]
+  }
 }
