@@ -129,13 +129,13 @@
   "application-fee-payment": {
     "FA_PAYMENT": 320,
     "FD_PAYMENT": 0,
-    "selectedPaymentOption": "FA_PAYMENT",
+    "selectedPaymentOption": "FD_PAYMENT",
     "USER_DEFINED_PAYMENT": 200,
     "paymentHistoryList": [{
-      "date": "string",
+      "date": "2024-01-22T02:54:46Z",
       "amount": 320,
       "reference": "reference",
-      "method": "FA_PAYMENT"
+      "method": "Credit Card"
     }]
   }
 }
