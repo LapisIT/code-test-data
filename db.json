@@ -130,7 +130,7 @@
     "FA_PAYMENT": 320,
     "FD_PAYMENT": 0,
     "selectedPaymentOption": "FA_PAYMENT",
-    "USER_DEFINED_PAYMENT": 10,
+    "USER_DEFINED_PAYMENT": 200,
     "paymentHistoryList": [{
       "date": "string",
       "amount": 320,
